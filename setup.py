@@ -30,16 +30,16 @@ def find_version(*file_paths):
 
 
 install_requires = [
-    'cached-property >= 1.2.0, < 2',
-    'docopt >= 0.6.1, < 1',
-    'PyYAML >= 3.10, < 5',
-    'requests >= 2.20.0, < 3',
-    'texttable >= 0.9.0, < 2',
-    'websocket-client >= 0.32.0, < 1',
-    'docker[ssh] >= 3.7.0, < 5',
-    'dockerpty >= 0.4.1, < 1',
-    'six >= 1.3.0, < 2',
-    'jsonschema >= 2.5.1, < 4',
+    'cached-property >= 1.2.0',
+    'docopt >= 0.6.1',
+    'PyYAML >= 3.10',
+    'requests >= 2.20.0',
+    'texttable >= 0.9.0',
+    'websocket-client >= 0.32.0',
+    'docker[ssh] >= 3.7.0',
+    'dockerpty >= 0.4.1',
+    'six >= 1.3.0',
+    'jsonschema >= 2.5.1',
 ]
 
 
